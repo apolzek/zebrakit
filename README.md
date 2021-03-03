@@ -1,11 +1,9 @@
 # zebrakit
 
-
-eksctl
-aws-cli
-kubectl
-terraform
-curl
-wget
-telnet
-ping
+ - [x] aws-cli
+ - [x] eksctl
+ - [x] kubectl
+ - [x] terraform
+ - [x] curl
+ - [x] wget
+ - [x] busybox-extras
