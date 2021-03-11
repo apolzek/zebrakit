@@ -7,5 +7,5 @@
  - [x] curl
  - [x] wget
  - [x] busybox-extras
- - [] openssl
- - [] nmap
+ - [ ] openssl
+ - [ ] nmap
